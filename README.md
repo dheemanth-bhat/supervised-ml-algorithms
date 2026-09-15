@@ -1,5 +1,7 @@
 # supervised-ml-algorithms
 
-Theory, Implementation and experimentation on Supervised Machine learning Algorithms.
+Theory, implementations and experimentation on Supervised Machine Learning algorithms.
 
 W.I.P
+
+![Evolution of ML Algorithms](Evolution_of_ML_Algorithms.png)
