@@ -21,3 +21,9 @@ Regression is defined as explaining the variance in $y$ using the variance obser
 
 </div>
 
+### 1.3 Hyperparameters
+
+List of most common hyperparameters that can be tuned for Linear Regression:
+
+1. Learning Rate
+2. Regularization parameter
