@@ -12,12 +12,13 @@ Regression is defined as explaining the variance in $y$ using the variance obser
 
 <div style="display: inline-block">
 
-|   # | Metric    |           Range |
-| --: | :-------- | --------------: |
-|   1 | MAE       |  $[0,\;\infty)$ |
-|   2 | MSE       |  $[0,\;\infty)$ |
-|   3 | RMSE      |  $[0,\;\infty)$ |
-|   4 | R-squared | $(-\infty,\,1]$ |
+|   # | Metric     |           Range |
+| --: | :--------- | --------------: |
+|   1 | MAE        |  $[0,\;\infty)$ |
+|   2 | MSE        |  $[0,\;\infty)$ |
+|   3 | RMSE       |  $[0,\;\infty)$ |
+|   4 | $R^2$      | $(-\infty,\,1]$ |
+|   5 | Adj. $R^2$ | $(-\infty,\,1]$ |
 
 </div>
 
