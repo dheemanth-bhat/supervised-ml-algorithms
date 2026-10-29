@@ -45,3 +45,16 @@ List of most common hyperparameters that can be tuned for Linear Regression:
 
 1. Learning Rate
 2. Regularization parameter
+
+### 1.5 Bias-Variance Trade off
+
+#### Summary
+
+<div style="display: inline-block">
+
+|              | Complexity | Bias | Variance | Train Error | Test Error |
+| :----------- | :--------- | :--- | :------- | :---------- | :--------- |
+| Underfitting | Low        | High | Low      | High        | High       |
+| Overfitting  | High       | Low  | High     | Low         | High       |
+
+</div>
