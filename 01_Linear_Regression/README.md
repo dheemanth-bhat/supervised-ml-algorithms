@@ -58,3 +58,17 @@ List of most common hyperparameters that can be tuned for Linear Regression:
 | Overfitting  | High       | Low  | High     | Low         | High       |
 
 </div>
+
+### 1.6 Regularization
+
+#### Summary
+
+<div style="display: inline-block">
+
+| Lambda value        | Regularization | Complexity | Fitting      |
+| :------------------ | :------------- | :--------- | :----------- |
+| Nearly equal to 0   | Low            | High       | Overfitting  |
+| Well tuned, say 0.1 | Moderate       | Moderate   | Best fit     |
+| Large value, say 1  | High           | Low        | Underfitting |
+
+</div>
